@@ -9,10 +9,10 @@ Campo	          Valor
 Group	          com.restaurant
 Artifact	      restaurant-backend
 Name	          Restaurant Management Backend
-Description	    Full-stack restaurant management system with Spring Boot REST and React frontend
+Description	      Full-stack restaurant management system with Spring Boot REST and React frontend
 Package name	  com.restaurant.backend
 Packaging	      Jar
-Configuration   YAML
+Configuration     YAML
 Java	          17
 
 2. Dependencias recomendadas
